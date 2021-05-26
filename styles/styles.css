@@ -1,0 +1,56 @@
+html {
+    font-size: 62.5%;
+    font-family: Roboto;
+}
+
+body {
+    font-size: 1.777rem;
+    margin: 4rem auto;
+}
+
+h1 {
+    font-size: 4.209rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 3.157rem;
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 2.369rem;
+    margin-bottom: 0.5rem;
+}
+
+p, ul {
+    font-family: Ubuntu;
+    margin-bottom: 1rem;
+    line-height: 3rem;
+}
+
+.container {
+    display: grid;
+    max-width: 1124px;
+    margin: 0 auto;
+}
+
+.main-p {
+    font-family: Merriweather;
+    font-size: 1.9rem;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    justify-self: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    text-align: center;
+    margin: 3rem auto 4rem;
+}
+
+li {
+    list-style-type: "\2714";
+    padding-left: 2rem;
+}
